@@ -4,6 +4,7 @@ Anonim Chat App
 Versiyon 1.0:
 
 Backend: WebSocket endpoint açtık.
+
 ConnectionManager: tüm bağlı kullanıcıları takip ediyor.
 broadcast(): herkesin mesajı görmesini sağlıyor.
 HTML client: test için basit bir chat arayüzü.
